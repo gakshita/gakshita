@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-🌱 Crafting Code & Shaping Solutions 🚀
+🧋 Turning Coffee into React Components
 
-🌟 Turning Coffee into React Components
+🌱 Learning and growing 🚀
 
 👨‍💻 Checkout my [portfolio](https://akshita.vercel.app/)
-
-💡 Innovating, Debugging, and Refactoring for a Better Tomorrow 🛠️
 
 📚 Exploring Web3 and Defi
 
